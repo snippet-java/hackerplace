@@ -1,0 +1,1 @@
+{"code":"console.log('haha');\nvar testparam = {\n    \"name\": \"john\",\n    \"age\": 18\n}","expected_code":"console.log('hehe');\n\nvar params = {\n    \"name\": \"test1\"\n}","expected_result":"hehe"}
