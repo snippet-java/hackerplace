@@ -1,1 +1,0 @@
-{"code":"console.log('haha');","expected_code":"console.log('hello')","expected_result":"hello"}
