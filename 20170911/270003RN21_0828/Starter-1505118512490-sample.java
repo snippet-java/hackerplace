@@ -1,1 +1,0 @@
-{"code":"public static void main(String[] args) {\n    db.insert(\"abc\", true);\n}","expected_code":"","expected_result":""}
